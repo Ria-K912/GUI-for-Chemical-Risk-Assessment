@@ -1,18 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Building Graphical User Interface for Chemical Risk Assessment</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h2, h3 { color: #333; }
-        p, li { font-size: 16px; color: #666; }
-        code { background-color: #f4f4f4; padding: 2px 4px; }
-    </style>
-</head>
-<body>
-    <h2>Machine Learning Project Notebooks Overview</h2>
-    <p>This document provides a brief overview of various machine learning and data science notebooks, detailing their purposes, methodologies, and key findings. Each notebook addresses different aspects of machine learning, ranging from neural networks, chemical reactivity prediction, to fraud detection and solubility prediction.</p>
+<h2>Building Graphical User Interface for Chemical Risk Assessment(National Chemical Laboratory)</h2>
+    <p>This document provides a brief overview of various machine learning and data science notebooks, detailing their purposes, methodologies, and key findings. Each notebook addresses different aspects of machine learning, ranging from neural networks, and chemical reactivity prediction, to fraud detection and solubility prediction.</p>
     
     <h3>Notebooks Included:</h3>
     <ul>
