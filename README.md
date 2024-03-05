@@ -9,7 +9,7 @@
         <li><code>Undersampling, Oversampling, SMOTE Implementation.ipynb</code>: Explores different techniques to handle imbalanced datasets in machine learning, including undersampling, oversampling, and Synthetic Minority Over-sampling Technique (SMOTE).</li>
     </ul>
     
-    <h3>Technologies and Libraries Used:</h3>
+<h3>Technologies and Libraries Used:</h3>
     <ul>
         <li>Python for comprehensive data analysis and model building.</li>
         <li>TensorFlow and Keras for designing and training deep learning models.</li>
@@ -18,7 +18,7 @@
         <li>Scikit-learn for implementing machine learning algorithms, data preprocessing, and model evaluation.</li>
     </ul>
     
-    <h3>Key Takeaways:</h3>
-    <p>These notebooks exemplify the versatility of machine learning applications across different domains, from image recognition and chemical analysis to addressing challenges in data imbalance. They highlight the importance of data preprocessing, model selection, and the innovative use of algorithms to derive meaningful predictions and insights from data.</p>
+<h3>Key Takeaways:</h3>
+<p>These notebooks exemplify the versatility of machine learning applications across different domains, from image recognition and chemical analysis to addressing challenges in data imbalance. They highlight the importance of data preprocessing, model selection, and the innovative use of algorithms to derive meaningful predictions and insights from data.</p>
 </body>
 </html>
