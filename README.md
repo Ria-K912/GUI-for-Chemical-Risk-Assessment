@@ -1,7 +1,7 @@
 <h2>Building Graphical User Interface for Chemical Risk Assessment(National Chemical Laboratory)</h2>
     <p>This document provides a brief overview of various machine learning and data science notebooks, detailing their purposes, methodologies, and key findings. Each notebook addresses different aspects of machine learning, ranging from neural networks, and chemical reactivity prediction, to fraud detection and solubility prediction.</p>
     
-    <h3>Notebooks Included:</h3>
+<h3>Notebooks Included:</h3>
     <ul>
         <li><code>8 GPUs with TensorFlow for Training a Simple CNN on the MNIST Dataset.ipynb</code>: Demonstrates the efficiency of using multiple GPUs for training a Convolutional Neural Network (CNN) on the MNIST dataset for handwritten digit recognition.</li>
         <li><code>Chemical Reactivity Prediction.ipynb</code>: Focuses on predicting the reactivity of chemical compounds using machine learning models, aiding in the discovery and design of new materials and drugs.</li>
